@@ -38,7 +38,9 @@ The power of Science overall
 ==
 Katie's work also marks yet another way to further validate Einstein's General Relativity theory. This is another chance to see how magnificent Einstein really was, and also a chance to appreciate how tremendous and effective Science is as a tool.
 
+Youtube/Vox: [Why this black hole photo is such a big deal](https://www.youtube.com/watch?v=pAoEHR4aW8I)
 
-Something to remember
+
+Something to remember about this repository
 ==
 An increase in resolution does not neccesitate that there's an increase in the accuracy of the information produced via original model!!
