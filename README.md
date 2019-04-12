@@ -18,9 +18,6 @@ Intriguingly Katie used machine learning to help reveal said black hole. Notably
 
 https://en.wikipedia.org/wiki/Katie_Bouman#Research_and_career
 
-This is yet another scenario where machine learning has produced excellent results in a field, by a person, where said person isn't trained in said field.
-
-Katie is not trained in Astrophysics, yet through machine learning, and her creativity, excellent results have been produced in the field of Astrophysics :]
 
 Installation
 ==
@@ -38,7 +35,7 @@ Katie is not trained in astrophysics, yet through machine learning, and her crea
 
 The power of Science overall
 ==
-Katie's work also marks yet another way to further validate Einstein's General relativity theory. This is another chance to see how magnificent Einstein really was.
+Katie's work also marks yet another way to further validate Einstein's General Relativity theory. This is another chance to see how magnificent Einstein really was.
 
 
 Something to remember
