@@ -4,11 +4,9 @@ I quickly used a [generative adversarial network model](https://github.com/ideal
 
 Images
 ===
-Original-image [970x545]:
-![Alt text](https://github.com/JordanMicahBennett/EINSTEIN-BLACK-HOLE-PHOTOGRAPH-ENHANCEMENT/blob/master/source-code/einstein_katie-bouman_black-hole_photograph%20%5Boriginal-version%5D.jpg?raw=true "default page")
+[Original-image (970x545)](https://github.com/JordanMicahBennett/EINSTEIN-BLACK-HOLE-PHOTOGRAPH-ENHANCEMENT/blob/master/source-code/einstein_katie-bouman_black-hole_photograph%20%5Boriginal-version%5D.jpg)
 
-Super-resolution version [1940x1090]:
-![Alt text](https://github.com/JordanMicahBennett/EINSTEIN-BLACK-HOLE-PHOTOGRAPH-ENHANCEMENT/blob/master/source-code/einstein_katie-bouman_black-hole_photograph%20%5Bsuper-resolution-version%5D.jpg?raw=true?raw=true "default page")
+[Super-resolution version (1940x1090)](https://github.com/JordanMicahBennett/EINSTEIN-BLACK-HOLE-PHOTOGRAPH-ENHANCEMENT/blob/master/source-code/einstein_katie-bouman_black-hole_photograph%20%5Bsuper-resolution-version%5D.jpg)
 
 Background
 ===
@@ -19,3 +17,13 @@ https://www.nationalgeographic.com/science/2019/04/first-picture-black-hole-reve
 Intriguingly Katie used machine learning to help reveal said black hole. Notably, Katie is not a trained astrophysicist, however her creativity has contributed, and the power of machine learning, has yet again produced extraordinary results.
 
 https://en.wikipedia.org/wiki/Katie_Bouman#Research_and_career
+
+This is yet another scenario where machine learning has produced excellent results in a field, by a person, where said person isn't trained in said field.
+
+Katie is not trained in astrophysics, yet through machine learning, and her creativity, excellent results have been produced in the field of astrophysics :]
+
+The power of machine learning
+==
+This is yet another scenario where machine learning has produced excellent results in a field, by a person, where said person isn't trained in said field.
+
+Katie is not trained in astrophysics, yet through machine learning, and her creativity, excellent results have been produced in the field of astrophysics :]
