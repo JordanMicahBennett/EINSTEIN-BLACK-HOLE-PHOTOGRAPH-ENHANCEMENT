@@ -10,7 +10,7 @@ Images
 
 Background
 ===
-Einstein's general-relativity black hole viewed for the first time, lead by PhD scientist Katie Bouman. [Using machine learning]
+**Einstein's General-Relativity black hole** viewed for the first time, lead by PhD scientist **Katie Bouman. [Using machine learning]**
 
 https://www.nationalgeographic.com/science/2019/04/first-picture-black-hole-revealed-m87-event-horizon-telescope-astrophysics/
 
@@ -20,13 +20,25 @@ https://en.wikipedia.org/wiki/Katie_Bouman#Research_and_career
 
 This is yet another scenario where machine learning has produced excellent results in a field, by a person, where said person isn't trained in said field.
 
-Katie is not trained in astrophysics, yet through machine learning, and her creativity, excellent results have been produced in the field of astrophysics :]
+Katie is not trained in Astrophysics, yet through machine learning, and her creativity, excellent results have been produced in the field of Astrophysics :]
 
-The power of machine learning
+Installation
+==
+1. Follow [the installation guide on the original repository](https://github.com/idealo/image-super-resolution#installation). 
+
+2. Download [the weights from original repository](https://github.com/idealo/image-super-resolution/blob/master/weights/sample_weights/rdn-C6-D20-G64-G064-x2/ArtefactCancelling/rdn-C6-D20-G64-G064-x2_ArtefactCancelling_epoch219.hdf5), and place it in the [/weights/sample_weights/rdn-C6-D20-G64-G064-x2/](https://github.com/JordanMicahBennett/EINSTEIN-BLACK-HOLE-PHOTOGRAPH-ENHANCEMENT/tree/master/source-code/weights/sample_weights/rdn-C6-D20-G64-G064-x2/ArtefactCancelling) of this source code.
+
+
+
+The power of machine learning 
 ==
 This is yet another scenario where machine learning has produced excellent results in a field, by a person, where said person isn't trained in said field.
 
 Katie is not trained in astrophysics, yet through machine learning, and her creativity, excellent results have been produced in the field of astrophysics :]
+
+The power of Science overall
+==
+Katie's work also marks yet another way to further validate Einstein's General relativity theory. This is another chance to see how magnificent Einstein really was.
 
 
 Something to remember
