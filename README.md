@@ -1,10 +1,10 @@
 About
 ===
-I quickly used a [generative adversarial network model](https://github.com/idealo/image-super-resolution) to enhance or to generate super resolution version of the first ever photograph of Einstein's black-hole, lead by PhD Katie Bouman.
+I quickly used a [generative adversarial artificial neural network model](https://github.com/idealo/image-super-resolution) to enhance or to generate super resolution version of the first ever photograph of Einstein's black-hole, lead by PhD Katie Bouman.
 
 Images
 ===
-[Original-image (970x545)](https://github.com/JordanMicahBennett/EINSTEIN-BLACK-HOLE-PHOTOGRAPH-ENHANCEMENT/blob/master/source-code/einstein_katie-bouman_black-hole_photograph%20%5Boriginal-version%5D.jpg)
+[Original-image (970x545)](https://github.com/JordanMicahBennett/EINSTEIN-BLACK-HOLE-PHOTOGRAPH-ENHANCEMENT/blob/master/source-code/einstein_katie-bouman_black-hole_photograph%20%5Boriginal-version%5D.jpg) taken [from space.com](https://www.space.com/first-black-hole-photo-by-event-horizon-telescope.html).
 
 [Super-resolution version (1940x1090)](https://github.com/JordanMicahBennett/EINSTEIN-BLACK-HOLE-PHOTOGRAPH-ENHANCEMENT/blob/master/source-code/einstein_katie-bouman_black-hole_photograph%20%5Bsuper-resolution-version%5D.jpg) produduced using the code in source code folder.
 
