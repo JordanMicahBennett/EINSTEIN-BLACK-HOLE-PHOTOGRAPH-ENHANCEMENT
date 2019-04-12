@@ -6,7 +6,7 @@ Images
 ===
 [Original-image (970x545)](https://github.com/JordanMicahBennett/EINSTEIN-BLACK-HOLE-PHOTOGRAPH-ENHANCEMENT/blob/master/source-code/einstein_katie-bouman_black-hole_photograph%20%5Boriginal-version%5D.jpg)
 
-[Super-resolution version (1940x1090)](https://github.com/JordanMicahBennett/EINSTEIN-BLACK-HOLE-PHOTOGRAPH-ENHANCEMENT/blob/master/source-code/einstein_katie-bouman_black-hole_photograph%20%5Bsuper-resolution-version%5D.jpg)
+[Super-resolution version (1940x1090)](https://github.com/JordanMicahBennett/EINSTEIN-BLACK-HOLE-PHOTOGRAPH-ENHANCEMENT/blob/master/source-code/einstein_katie-bouman_black-hole_photograph%20%5Bsuper-resolution-version%5D.jpg) produduced using the code in source code folder.
 
 Background
 ===
