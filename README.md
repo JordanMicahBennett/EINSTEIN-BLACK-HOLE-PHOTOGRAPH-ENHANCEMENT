@@ -1,6 +1,6 @@
 About
 ===
-I quickly used a [generative adversarial network model](https://github.com/idealo/image-super-resolution) is leveraged to super enhance the first ever photograph of Einstein's black-hole, lead by PhD Katie Bouman.
+I quickly used a [generative adversarial network model](https://github.com/idealo/image-super-resolution) to enhance or to generate super resolution version of the first ever photograph of Einstein's black-hole, lead by PhD Katie Bouman.
 
 Images
 ===
