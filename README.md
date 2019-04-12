@@ -27,3 +27,8 @@ The power of machine learning
 This is yet another scenario where machine learning has produced excellent results in a field, by a person, where said person isn't trained in said field.
 
 Katie is not trained in astrophysics, yet through machine learning, and her creativity, excellent results have been produced in the field of astrophysics :]
+
+
+Something to remember
+==
+An increase in resolution does not neccesitate that there's an increase in the accuracy of the information produced via original model!!
