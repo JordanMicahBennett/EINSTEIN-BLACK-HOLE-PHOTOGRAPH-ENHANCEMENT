@@ -1,0 +1,2 @@
+Download [the weights from original repository](https://github.com/idealo/image-super-resolution/blob/master/weights/sample_weights/rdn-C6-D20-G64-G064-x2/ArtefactCancelling/rdn-C6-D20-G64-G064-x2_ArtefactCancelling_epoch219.hdf5).
+and place it in the [/weights/sample_weights/rdn-C6-D20-G64-G064-x2/](https://github.com/JordanMicahBennett/EINSTEIN-BLACK-HOLE-PHOTOGRAPH-ENHANCEMENT/tree/master/source-code/weights/sample_weights/rdn-C6-D20-G64-G064-x2/ArtefactCancelling) of this sourc code.
