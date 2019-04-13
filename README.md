@@ -14,7 +14,7 @@ Background
 
 https://www.nationalgeographic.com/science/2019/04/first-picture-black-hole-revealed-m87-event-horizon-telescope-astrophysics/
 
-Intriguingly Katie used machine learning to help reveal said black hole. Notably, Katie is not a trained astrophysicist, however her creativity has contributed, and the power of machine learning, has yet again produced extraordinary results.
+Intriguingly Katie used machine learning to help reveal said black hole. Notably, Katie is not a trained astrophysicist, however her creativity has contributed, and the power of machine learning, has yet again produced extraordinary results. I ponder, is her work Nobel Prize worthy?
 
 https://en.wikipedia.org/wiki/Katie_Bouman#Research_and_career
 
