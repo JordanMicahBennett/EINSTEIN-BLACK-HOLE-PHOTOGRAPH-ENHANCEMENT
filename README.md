@@ -21,9 +21,9 @@ https://en.wikipedia.org/wiki/Katie_Bouman#Research_and_career
 
 Installation
 ==
-1. Follow [the installation guide on the original repository](https://github.com/idealo/image-super-resolution#installation). 
+1. Install [ISR 2.0.2](https://pypi.org/project/ISR/2.0.2).
 
-2. Download [the weights from the aws resource related to the original repository](https://public-asai-dl-models.s3.eu-central-1.amazonaws.com/ISR/rdn-C6-D20-G64-G064-x2/ArtefactCancelling/rdn-C6-D20-G64-G064-x2_ArtefactCancelling_epoch219.hdf5), and place it in the [/weights/sample_weights/rdn-C6-D20-G64-G064-x2/](https://github.com/JordanMicahBennett/EINSTEIN-BLACK-HOLE-PHOTOGRAPH-ENHANCEMENT/tree/master/source-code/weights/sample_weights/rdn-C6-D20-G64-G064-x2/ArtefactCancelling) of this source code.
+2. Download [the weights from the aws resource related to the original repository](https://public-asai-dl-models.s3.eu-central-1.amazonaws.com/ISR/rdn-C6-D20-G64-G064-x2/ArtefactCancelling/rdn-C6-D20-G64-G064-x2_ArtefactCancelling_epoch219.hdf5), and place it in the [/weights/sample_weights/rdn-C6-D20-G64-G064-x2/](https://github.com/JordanMicahBennett/EINSTEIN-BLACK-HOLE-PHOTOGRAPH-ENHANCEMENT/tree/master/source-code/weights/sample_weights/rdn-C6-D20-G64-G064-x2/ArtefactCancelling) of this source code. Adjust the "load_weights" location parameter to yours.
 
 
 
