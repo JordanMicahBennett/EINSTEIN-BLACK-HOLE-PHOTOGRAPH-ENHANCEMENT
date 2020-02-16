@@ -25,7 +25,7 @@ Installation
 
 2. Download [the weights from the aws resource related to the original repository](https://public-asai-dl-models.s3.eu-central-1.amazonaws.com/ISR/rdn-C6-D20-G64-G064-x2/ArtefactCancelling/rdn-C6-D20-G64-G064-x2_ArtefactCancelling_epoch219.hdf5), and place it in the directory of the [application.py](https://github.com/JordanMicahBennett/EINSTEIN-BLACK-HOLE-PHOTOGRAPH-ENHANCEMENT/blob/master/source-code/application.py) file.
 
-3. Ensure tensorflow/gpu backend is enabled. On your windows machine, go to <root>/Users/<username>/.keras/keras.json, and change backend and device to "tensorflow" and "gpu" respectively.
+3. Ensure tensorflow/gpu backend is enabled. On your windows machine, go to _root_/Users/_username_/.keras/keras.json, and change backend and device to "tensorflow" and "gpu" respectively.
 
 
 The power of machine learning 
